@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HomeworkDesign</string>
+    <string name="my_text_view">Battle for Azeroth!!!</string>
+    <string name="main_button">main button</string>
+    <string name="left_button">за орду!</string>
+    <string name="right_button">за альянс!</string>
+    <string name="left_chip">зачем тут календарь?</string>
+    <string name="center_chip">+500XP</string>
+    <string name="right_chip">не мешает вроде</string>
+    <string name="left_down_chip">сказали нужно 5 элементов</string>
+    <string name="right_down_chip">+2лвл</string>
+    <string name="down_chip">GO!</string>
+</resources>
